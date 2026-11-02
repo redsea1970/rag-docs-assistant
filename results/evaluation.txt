@@ -1,0 +1,14 @@
+Оценка RAG (context_precision, faithfulness)
+============================================================
+Как создать функцию в Python?
+  Precision: 1.00, Faithfulness: 0.60
+Как создать ветку в Git?
+  Precision: 1.00, Faithfulness: 0.60
+Как собрать Docker образ?
+  Precision: 1.00, Faithfulness: 0.75
+Как обработать исключение?
+  Precision: 0.00, Faithfulness: 0.00
+Как отправить изменения в удалённый репозиторий?
+  Precision: 1.00, Faithfulness: 0.50
+============================================================
+Среднее: Precision=0.80, Faithfulness=0.49
