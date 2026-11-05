@@ -61,3 +61,7 @@ flowchart LR
     Top --> G[Демо-генерация ответа]
     G --> M[Оценка: Precision, Faithfulness]
 ```
+
+## Архитектура
+
+Подробная схема проекта: [ARCHITECTURE.md](ARCHITECTURE.md)
